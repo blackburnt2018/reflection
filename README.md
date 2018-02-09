@@ -1,3 +1,12 @@
+#reflection 3
+## /2/9/2018
+This week I learned how to use string values. I also learned how to determine what a float, string, integer, and boolean function. I also learned how to use these functions in a code. And I learned how to combine string functions.
+
+
+
+---
+
+
 # reflection 2
 ## 2/2/2018
 This week I learned how to use git commands and what order to use them. I was very surprised how quickly I learned how to do everything considering I didn't have my computer for over a week and a half. I also learned how to use commands to edit a file. and I also learned how to use other commands to help me open a file.
