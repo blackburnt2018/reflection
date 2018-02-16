@@ -1,3 +1,13 @@
+#reflection 4
+## 2/16/2018
+this week i learned how to combine strings. i also learned how to print each word in a sentence on a new line. i also learned how to make print words and make them backwards. and i learned how to a code that allows it to choose a random number between 2 different numbers.
+
+
+
+---
+
+
+
 #reflection 3
 ## /2/9/2018
 This week I learned how to use string values. I also learned how to determine what a float, string, integer, and boolean function. I also learned how to use these functions in a code. And I learned how to combine string functions.
