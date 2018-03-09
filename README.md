@@ -1,3 +1,13 @@
+#reflection 7
+## 3/9/18
+this week i learned how to use while statements and and list statements. i learned how to make a code that sums up the score of each frame in bowling. i also learned how to sum the list of numbers in a raw_input. and i learned how to perfect my if statements. 
+
+
+
+---
+
+
+
 #reflection 4
 ## 2/16/2018
 this week i learned how to combine strings. i also learned how to print each word in a sentence on a new line. i also learned how to make print words and make them backwards. and i learned how to a code that allows it to choose a random number between 2 different numbers.
