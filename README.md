@@ -1,3 +1,14 @@
+#reflection 8
+##3/16/18
+this week i learned how to define function. i also learned how to use the return function. i also started to perfect my def function. and im starting to get a little better at defining my functions and making them do something.
+
+
+
+
+---
+
+
+
 #reflection 7
 ## 3/9/18
 this week i learned how to use while statements and and list statements. i learned how to make a code that sums up the score of each frame in bowling. i also learned how to sum the list of numbers in a raw_input. and i learned how to perfect my if statements. 
