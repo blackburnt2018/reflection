@@ -1,3 +1,13 @@
+#reflection 9
+##4/13/18
+this week i tried to improve my skills on creating my own code for the homework. i also learned how to import a code i already wrote into another code. i also learned how to write code that deals with different types of sorts like insert sort and bubble sort. and im still trying to figure out my google friday project.
+
+
+---
+
+
+
+
 #reflection 8
 ##3/16/18
 this week i learned how to define function. i also learned how to use the return function. i also started to perfect my def function. and im starting to get a little better at defining my functions and making them do something.
