@@ -1,3 +1,13 @@
+#reflection 10
+##5/11/18
+I have been trying to be better at my coding skills and im starting to get a little bit better each day. i almost perfected my dice project but it was really hard so i couldn't really do much. im starting to understand a little bit more on coding each day. im starting to get a better understanding on writing code but it's really hard and confusing. i haven't given up on my coding yet but it's really frustrating and hard but i haven't stopped. this class is extremely hard for me because i don't understand any of this, i took this class as a sophmore at my old school and failed the class and im learning the same stuff i did back then and it's really hard and tough and extremely frustrating.
+
+
+
+---
+
+
+
 #reflection 9
 ##4/13/18
 this week i tried to improve my skills on creating my own code for the homework. i also learned how to import a code i already wrote into another code. i also learned how to write code that deals with different types of sorts like insert sort and bubble sort. and im still trying to figure out my google friday project.
