@@ -1,3 +1,16 @@
+#reflection 11
+##5/18/18
+this week i still had a lot of trouble with pyton. i honestly don't understand any of this. i took this class once before in my sophmore year at my old high school and i failed that class. this stuff was ok at first but once we got to the def functions i got completely lost and confused on everythin. i don't want to take this final because it's supposed to be extremely hard, but for some kids it won't be that hard. but for me it will be the hardest thing in the world that i have ever done. yea sure i learned a few new things here and there, but towards the end everything got so freakin confusing, i wanted to break my laptop and smash it into a million pieces so i wouldn't have to keep doing this. honestly i didn't like this class at all, everytime i left i wanted to break something because python was making me so frustrated with everything in this class. honestly if i still have to take this final, all im going to do is write out everything im able to remember to write to start of the function, but then after that, the only buttons im going to be pressing is the "j" and the "k" because im going to get so mad and confused.
+
+
+
+
+
+---
+
+
+
+
 #reflection 10
 ##5/11/18
 I have been trying to be better at my coding skills and im starting to get a little bit better each day. i almost perfected my dice project but it was really hard so i couldn't really do much. im starting to understand a little bit more on coding each day. im starting to get a better understanding on writing code but it's really hard and confusing. i haven't given up on my coding yet but it's really frustrating and hard but i haven't stopped. this class is extremely hard for me because i don't understand any of this, i took this class as a sophmore at my old school and failed the class and im learning the same stuff i did back then and it's really hard and tough and extremely frustrating.
